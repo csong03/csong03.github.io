@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pptmb.github.io</id>
     <title>PPTMB</title>
-    <updated>2020-10-04T05:50:51.582Z</updated>
+    <updated>2020-10-04T15:42:02.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pptmb.github.io"/>
     <link rel="self" href="https://pptmb.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://pptmb.github.io/images/avatar.png</logo>
     <icon>https://pptmb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, PPTMB</rights>
+    <entry>
+        <title type="html"><![CDATA[高雅紫色木纹古典中国风]]></title>
+        <id>https://pptmb.github.io/post/gao-ya-zi-se-mu-wen-gu-dian-zhong-guo-feng/</id>
+        <link href="https://pptmb.github.io/post/gao-ya-zi-se-mu-wen-gu-dian-zhong-guo-feng/">
+        </link>
+        <updated>2020-10-04T15:40:10.000Z</updated>
+        <content type="html"><![CDATA[<center>
+<p><font size=4 ><strong><a href="http://dd.ma/pDCJAq8t" target="_blank">预览图片</a></strong> ➕ <strong><a href="http://dd.ma/qErr0tHo" target="_blank">蓝奏云下载</a></strong></font></center></p>
+<center>
+<p><font size=2 ><em>PS：预览下载页面二维码为广告，切勿相信！</em></font></center></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国潮中秋节]]></title>
+        <id>https://pptmb.github.io/post/guo-chao-zhong-qiu-jie/</id>
+        <link href="https://pptmb.github.io/post/guo-chao-zhong-qiu-jie/">
+        </link>
+        <updated>2020-10-04T15:32:18.000Z</updated>
+        <content type="html"><![CDATA[<center>
+<p><font size=4 ><strong><a href="http://dd.ma/rVWNIwSO" target="_blank">预览图片</a></strong> ➕ <strong><a href="http://dd.ma/V6yQgwFj" target="_blank">蓝奏云下载</a></strong></font></center></p>
+<center>
+<p><font size=2 ><em>PS：预览下载页面二维码为广告，切勿相信！</em></font></center></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[极简古风]]></title>
         <id>https://pptmb.github.io/post/ji-jian-gu-feng/</id>
