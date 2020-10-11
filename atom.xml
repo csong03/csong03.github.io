@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pptmb.github.io</id>
+    <id>http://photo.csong.shop</id>
     <title>Photo-Csong</title>
-    <updated>2020-10-11T16:26:21.012Z</updated>
+    <updated>2020-10-11T16:28:13.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://pptmb.github.io"/>
-    <link rel="self" href="https://pptmb.github.io/atom.xml"/>
+    <link rel="alternate" href="http://photo.csong.shop"/>
+    <link rel="self" href="http://photo.csong.shop/atom.xml"/>
     <subtitle>csong的图片收藏</subtitle>
-    <logo>https://pptmb.github.io/images/avatar.png</logo>
-    <icon>https://pptmb.github.io/favicon.ico</icon>
+    <logo>http://photo.csong.shop/images/avatar.png</logo>
+    <icon>http://photo.csong.shop/favicon.ico</icon>
     <rights>All rights reserved 2020, Photo-Csong</rights>
     <entry>
         <title type="html"><![CDATA[测试1]]></title>
-        <id>https://pptmb.github.io/post/ce-shi-1/</id>
-        <link href="https://pptmb.github.io/post/ce-shi-1/">
+        <id>http://photo.csong.shop/post/ce-shi-1/</id>
+        <link href="http://photo.csong.shop/post/ce-shi-1/">
         </link>
         <updated>2020-10-11T15:59:09.000Z</updated>
     </entry>
