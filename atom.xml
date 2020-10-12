@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://photo.csong.shop</id>
     <title>Photo-Csong</title>
-    <updated>2020-10-12T04:46:38.742Z</updated>
+    <updated>2020-10-12T04:49:49.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://photo.csong.shop"/>
     <link rel="self" href="https://photo.csong.shop/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://photo.csong.shop/images/avatar.png</logo>
     <icon>https://photo.csong.shop/favicon.ico</icon>
     <rights>All rights reserved 2020, Photo-Csong</rights>
+    <entry>
+        <title type="html"><![CDATA[施法]]></title>
+        <id>https://photo.csong.shop/post/shi-fa/</id>
+        <link href="https://photo.csong.shop/post/shi-fa/">
+        </link>
+        <updated>2020-10-12T04:48:53.000Z</updated>
+        <content type="html"><![CDATA[<p>。。。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS]]></title>
+        <id>https://photo.csong.shop/post/vs/</id>
+        <link href="https://photo.csong.shop/post/vs/">
+        </link>
+        <updated>2020-10-12T04:47:17.000Z</updated>
+        <content type="html"><![CDATA[<p>。。。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网易云音乐背景]]></title>
         <id>https://photo.csong.shop/post/wang-yi-yun-yin-le-bei-jing/</id>
