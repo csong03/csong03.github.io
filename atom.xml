@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.csong.monster</id>
     <title>CSONG</title>
-    <updated>2021-01-15T12:42:46.511Z</updated>
+    <updated>2021-01-15T12:48:05.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.csong.monster"/>
     <link rel="self" href="https://www.csong.monster/atom.xml"/>
@@ -17,6 +17,7 @@
         </link>
         <updated>2021-01-15T12:35:10.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://www.bing.com/webmasters/home?siteUrl=http://www.51zikao.shop/">bing收录提交</a><br>
+<a href="https://ziyuan.baidu.com/linksubmit/index?site=http://www.51zikao.shop/">百度收录提交</a><br>
 <a href="https://yun.iisat.cn/">爱网云</a><br>
 <a href="http://www.51zikao.shop/">发卡网</a><br>
 <a href="http://www.51zikao.shop/admin/">发卡后台</a></p>
