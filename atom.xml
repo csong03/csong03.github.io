@@ -2,14 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.csong.monster</id>
     <title>CSONG</title>
-    <updated>2020-11-25T10:12:22.256Z</updated>
+    <updated>2021-01-15T12:42:46.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.csong.monster"/>
     <link rel="self" href="https://www.csong.monster/atom.xml"/>
     <subtitle>自言自语，无言无语</subtitle>
     <logo>https://www.csong.monster/images/avatar.png</logo>
     <icon>https://www.csong.monster/favicon.ico</icon>
-    <rights>All rights reserved 2020, CSONG</rights>
+    <rights>All rights reserved 2021, CSONG</rights>
+    <entry>
+        <title type="html"><![CDATA[网站书签]]></title>
+        <id>https://www.csong.monster/wang-zhan-shu-qian/</id>
+        <link href="https://www.csong.monster/wang-zhan-shu-qian/">
+        </link>
+        <updated>2021-01-15T12:35:10.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.bing.com/webmasters/home?siteUrl=http://www.51zikao.shop/">bing收录提交</a><br>
+<a href="https://yun.iisat.cn/">爱网云</a><br>
+<a href="http://www.51zikao.shop/">发卡网</a><br>
+<a href="http://www.51zikao.shop/admin/">发卡后台</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7月14日的心得记录]]></title>
         <id>https://www.csong.monster/7-yue-14-ri-de-xin-de-ji-lu/</id>
