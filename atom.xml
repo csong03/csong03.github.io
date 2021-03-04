@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.csong.monster</id>
+    <id>https://csong03.github.io</id>
     <title>CSONG</title>
-    <updated>2021-03-01T04:07:52.314Z</updated>
+    <updated>2021-03-04T08:45:39.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.csong.monster"/>
-    <link rel="self" href="https://www.csong.monster/atom.xml"/>
+    <link rel="alternate" href="https://csong03.github.io"/>
+    <link rel="self" href="https://csong03.github.io/atom.xml"/>
     <subtitle>自言自语，无言无语</subtitle>
-    <logo>https://www.csong.monster/images/avatar.png</logo>
-    <icon>https://www.csong.monster/favicon.ico</icon>
+    <logo>https://csong03.github.io/images/avatar.png</logo>
+    <icon>https://csong03.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CSONG</rights>
     <entry>
-        <title type="html"><![CDATA[网站书签]]></title>
-        <id>https://www.csong.monster/wang-zhan-shu-qian/</id>
-        <link href="https://www.csong.monster/wang-zhan-shu-qian/">
-        </link>
-        <updated>2021-01-15T12:35:10.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.bing.com/webmasters/home?siteUrl=http://www.51zikao.shop/">bing收录提交</a><br>
-<a href="https://ziyuan.baidu.com/linksubmit/index?site=http://www.51zikao.shop/">百度收录提交</a><br>
-<a href="https://yun.iisat.cn/">爱网云</a><br>
-<a href="http://www.51zikao.shop/">发卡网</a><br>
-<a href="http://www.51zikao.shop/admin/">发卡后台</a><br>
-SCU120321T60d7522c57fbc78c3738142ec580f6ef5f9534874a97a</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7月14日的心得记录]]></title>
-        <id>https://www.csong.monster/7-yue-14-ri-de-xin-de-ji-lu/</id>
-        <link href="https://www.csong.monster/7-yue-14-ri-de-xin-de-ji-lu/">
+        <id>https://csong03.github.io/7-yue-14-ri-de-xin-de-ji-lu/</id>
+        <link href="https://csong03.github.io/7-yue-14-ri-de-xin-de-ji-lu/">
         </link>
         <updated>2020-11-25T04:43:40.000Z</updated>
         <content type="html"><![CDATA[<p>今天看到了7月14日的一个思考记录，是手写的，但我觉得挺值得以后回忆一下的，因为里面有几个对我来说难得领悟的的观点。</p>
@@ -43,8 +29,8 @@ SCU120321T60d7522c57fbc78c3738142ec580f6ef5f9534874a97a</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[大二开学考前复习及经验回顾二]]></title>
-        <id>https://www.csong.monster/da-er-kai-xue-kao-qian-fu-xi-ji-jing-yan-hui-gu-er/</id>
-        <link href="https://www.csong.monster/da-er-kai-xue-kao-qian-fu-xi-ji-jing-yan-hui-gu-er/">
+        <id>https://csong03.github.io/da-er-kai-xue-kao-qian-fu-xi-ji-jing-yan-hui-gu-er/</id>
+        <link href="https://csong03.github.io/da-er-kai-xue-kao-qian-fu-xi-ji-jing-yan-hui-gu-er/">
         </link>
         <updated>2020-11-25T04:41:04.000Z</updated>
         <content type="html"><![CDATA[<p>现在在补牙，等的人有点多就不要浪费时间了，继续上一篇。</p>
@@ -80,8 +66,8 @@ SCU120321T60d7522c57fbc78c3738142ec580f6ef5f9534874a97a</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[大二开学考前复习及经验回顾一]]></title>
-        <id>https://www.csong.monster/da-er-kai-xue-kao-qian-fu-xi-ji-jing-yan-hui-gu-yi/</id>
-        <link href="https://www.csong.monster/da-er-kai-xue-kao-qian-fu-xi-ji-jing-yan-hui-gu-yi/">
+        <id>https://csong03.github.io/da-er-kai-xue-kao-qian-fu-xi-ji-jing-yan-hui-gu-yi/</id>
+        <link href="https://csong03.github.io/da-er-kai-xue-kao-qian-fu-xi-ji-jing-yan-hui-gu-yi/">
         </link>
         <updated>2020-11-25T04:38:59.000Z</updated>
         <content type="html"><![CDATA[<p>23号大学开学，我也就莫名其妙地成为一名大二学生了，现在有一件要命的事摆在眼前，开学期末考试。<br>
