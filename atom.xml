@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://csong03.github.io</id>
     <title>CSONG</title>
-    <updated>2021-03-04T08:50:07.997Z</updated>
+    <updated>2021-03-04T09:23:32.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://csong03.github.io"/>
     <link rel="self" href="https://csong03.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://csong03.github.io/images/avatar.png</logo>
     <icon>https://csong03.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CSONG</rights>
+    <entry>
+        <title type="html"><![CDATA[简历制作相关]]></title>
+        <id>https://csong03.github.io/jian-li-zhi-zuo-xiang-guan/</id>
+        <link href="https://csong03.github.io/jian-li-zhi-zuo-xiang-guan/">
+        </link>
+        <updated>2021-03-04T08:51:02.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.zhaopin.com/">智联招聘</a><br>
+<a href="http://tools.bugscaner.com/weiyuanchuang.html">原创加工</a><br>
+<a href="https://remixicon.com/">找图标</a><br>
+<a href="https://mishiji.lanzous.com/id7Srmhdugd">蓝奏云</a><br>
+<a href="https://github.com/csong01/csong01.github.io/blob/master/bookmarks_2021_3_4.md">书签备查</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7月14日的心得记录]]></title>
         <id>https://csong03.github.io/7-yue-14-ri-de-xin-de-ji-lu/</id>
